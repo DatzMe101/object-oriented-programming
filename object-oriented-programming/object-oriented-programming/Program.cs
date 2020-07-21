@@ -10,6 +10,7 @@ namespace object_oriented_programming
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
